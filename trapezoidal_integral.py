@@ -5,7 +5,6 @@ from math import sin
 # -----------
 
 from math import pi
-
 a = 0
 b = pi/2
 n = 100
